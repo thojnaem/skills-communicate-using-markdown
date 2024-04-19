@@ -5,3 +5,17 @@
 ##### Em như con heo...
 
 ![hohoho](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW94MWE5Yjg4czNvZWNnZ2U1dzFhcHlhb2E5bGhjdGE0cXk5MWZtYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fUQ4rhUZJYiQsas6WD/giphy.gif)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+``` python
+import os
+os.system('cls')
+```
